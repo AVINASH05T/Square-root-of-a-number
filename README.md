@@ -1,5 +1,8 @@
-# Find the square root of a number
-
+## EXPERIMENT: 5 
+## Find the square root of a number
+## NAME: AVINASH T
+## REG NO: 212223230026
+## DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ## AIM:
 To write a program to find the square root of a number.
 
@@ -15,16 +18,16 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
-/*
+```c
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: AVINASH T
+RegisterNumber:  212223230026
 ```
+![image](https://github.com/AVINASH05T/Square-root-of-a-number/assets/151514286/c210dc9d-29cd-4109-978a-8b7d59451791)
 
 ## Output:
 
+![image](https://github.com/AVINASH05T/Square-root-of-a-number/assets/151514286/703548e9-fe39-4c6d-8b0f-290248546adf)
 
 
 ## Result:
