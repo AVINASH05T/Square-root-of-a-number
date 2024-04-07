@@ -1,5 +1,5 @@
-## EXPERIMENT: 5 
-## Find the square root of a number
+# EXPERIMENT: 5 
+# Find the square root of a number
 ## NAME: AVINASH T
 ## REG NO: 212223230026
 ## DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
@@ -22,6 +22,14 @@ To write a program to find the square root of a number.
 Program to find the square root for the given number(newton's method) using function.
 Developed by: AVINASH T
 RegisterNumber:  212223230026
+def sqroot(num,iter=100):
+    a=float(num)
+    for i in range(iter):
+        num=0.5*(num+a/num)
+    return num
+a=int(input())
+print("Square root of the number:",sqroot(a))
+
 ```
 ![image](https://github.com/AVINASH05T/Square-root-of-a-number/assets/151514286/c210dc9d-29cd-4109-978a-8b7d59451791)
 
